@@ -17,7 +17,7 @@ The Password Generator Tool is a Python program that generates random passwords 
 
 # Instructions
 1. Navigate to the [Password Generator Tool](https://replit.com/@ArmandtErasmus/PasswordGenerator?v=1) page to access the program.
-2. Run the Python script in the console.
+2. Run the Python script in the console. Follow the given prompts.
 3. You will be prompted to enter the number of letters, numbers, and symbols you want in your password.
 4. Enter the desired number for each category as per your preference.
 5. The program will generate a password consisting of the specified number of letters, numbers, and symbols.
